@@ -1,0 +1,81 @@
+{
+  "_args": [
+    [
+      "nodebb-plugin-sso-mapmakers",
+      "D:\\NodeBB-NodeBB-903bdbf"
+    ]
+  ],
+  "_from": "nodebb-plugin-sso-mapmakers@*",
+  "_id": "nodebb-plugin-sso-mapmakers@1.0.3",
+  "_inCache": true,
+  "_location": "/nodebb-plugin-sso-mapmakers",
+  "_npmUser": {
+    "email": "fransua.ne@gmail.com",
+    "name": "franzzua"
+  },
+  "_npmVersion": "1.4.28",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "nodebb-plugin-sso-mapmakers",
+    "raw": "nodebb-plugin-sso-mapmakers",
+    "rawSpec": "",
+    "scope": null,
+    "spec": "*",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/nodebb-plugin-sso-mapmakers/-/nodebb-plugin-sso-mapmakers-1.0.3.tgz",
+  "_shasum": "e44ec7559631c8ef5453a8a43921b5b9be0f4ccf",
+  "_shrinkwrap": null,
+  "_spec": "nodebb-plugin-sso-mapmakers",
+  "_where": "D:\\NodeBB-NodeBB-903bdbf",
+  "author": {
+    "email": "fransua.ne@gmail.com",
+    "name": "franzzua"
+  },
+  "bugs": {
+    "url": "https://github.com/franzzua/nodebb-plugin-sso-mapmakers/issues"
+  },
+  "dependencies": {
+    "passport-mapmakers": "^0.0.3"
+  },
+  "description": "NodeBB mapmakers SSO",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "e44ec7559631c8ef5453a8a43921b5b9be0f4ccf",
+    "tarball": "http://registry.npmjs.org/nodebb-plugin-sso-mapmakers/-/nodebb-plugin-sso-mapmakers-1.0.3.tgz"
+  },
+  "gitHead": "9cd9ea7d7d89df822e28ecea738c19e2263d3251",
+  "homepage": "https://github.com/franzzua/nodebb-plugin-sso-mapmakers",
+  "installable": true,
+  "keywords": [
+    "nodebb",
+    "plugin",
+    "registration",
+    "single sign on",
+    "sso",
+    "mapmakers"
+  ],
+  "license": "MIT",
+  "main": "library.js",
+  "maintainers": [
+    {
+      "name": "franzzua",
+      "email": "fransua.ne@gmail.com"
+    }
+  ],
+  "name": "nodebb-plugin-sso-mapmakers",
+  "nbbpm": {
+    "compatibility": "^0.6.0"
+  },
+  "optionalDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/franzzua/nodebb-plugin-sso-mapmakers"
+  },
+  "scripts": {},
+  "version": "1.0.3"
+}
